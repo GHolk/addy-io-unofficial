@@ -1,6 +1,6 @@
 # addy.io unofficial
 This repository hold an unofficial wiki of [addy.io].
-The unofficial wiki document the websites or services
+The unofficial wiki documents the websites or services
 which don't like addy.io's mail address.
 
 [take me to the wiki!][wiki]
